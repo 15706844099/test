@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/layout/fragment_drawer.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/layout/fragment_drawer.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/layout/listitem_drawer.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/layout/listitem_drawer.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/layout/swipeback_layout.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/layout/swipeback_layout.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/layout/fragment_feed.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/layout/fragment_feed.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/layout/activity_imageview.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/layout/activity_imageview.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/layout/actionbar_refresh_progress.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/layout/actionbar_refresh_progress.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/layout/actionbar_title.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/layout/actionbar_title.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/layout/loading_footer.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/layout/loading_footer.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/layout/listitem_feed.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/layout/listitem_feed.xml"
+    }
+]

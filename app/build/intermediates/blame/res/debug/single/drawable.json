@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable/listitem_feed_selector.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable/listitem_feed_selector.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable/listitem_drawer_selector.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable/listitem_drawer_selector.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable/ic_actionbar.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable/ic_actionbar.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable/actionbar_bg.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable/actionbar_bg.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable/main_bg.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable/main_bg.xml"
+    }
+]

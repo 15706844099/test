@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_a160528e9e75c5a5e7919db0e61128b450f3e077.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/9GAG-master/app/libs/listviewanimations-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59351ccb0a1631d30358f6a92749a072f2df7602">
+        <dex dex="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/pre-dexed/debug/listviewanimations-2.6.0_27e46a6504d54b37b7543b86e32a1034733f2dea.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/9GAG-master/app/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/pre-dexed/debug/gson-2.2.4_e28580093ae0f592f79c97bfd24249b098e7950e.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/9GAG-master/app/libs/butterknife-5.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="34f9a9915c4ac33f97a9339f4caad41cb02638d8">
+        <dex dex="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/pre-dexed/debug/butterknife-5.0.0_7d179e57de45866151067a8f4400b9c7d1175a2e.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/exploded-aar/com.alexvasilkov/foldable-layout/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9996a3ab73fb3c6082c13e107e093328a23ec179">
+        <dex dex="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/pre-dexed/debug/com.alexvasilkov-foldable-layout-1.0.1_2c30f5757b0aa813462bb8be57ef842934f767a9.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/exploded-aar/9GAG-master.extras/ShimmerAndroid/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5cbe9dae72bfa8c992793292c40e164467cde1b1">
+        <dex dex="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/pre-dexed/debug/9GAG-master.extras-ShimmerAndroid-unspecified_db6fed633bacd534dede1392b59b76471c011c82.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/9GAG-master/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_161555cca21014e811e25cbae3e0cf32cadf114d.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/pre-dexed/debug/com.etsy.android.grid-library-1.0.5_575ddaf0c5fea94495a252c8c6ba29156395328a.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_14d282d68ef3141e349123f3df6d5aac33ffc3f7.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_34310d287a080a73c6eec13d552f64c48afac4cc.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/9GAG-master/app/libs/universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.1_97c962a3d6d5c1c2c74c6d78235fb98d3c4972fa.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/9GAG-master/app/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d57fd9c5dcce9fb775f92d68557370fe891c356b">
+        <dex dex="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/pre-dexed/debug/volley_2221d0f074b51cae69a54113daa6735abf6477b3.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/9GAG-master/app/libs/photoviewlibrary.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b2c797984dea1adba77508f1fa5a377cc91254c5">
+        <dex dex="/Users/zkw/Downloads/9GAG-master/app/build/intermediates/pre-dexed/debug/photoviewlibrary_bbb3e8e8d51540798bb8056fceb347c49089f650.jar" />
+    </item>
+
+</items>

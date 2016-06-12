@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/mask.xml",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/exploded-aar/9GAG-master.extras/ShimmerAndroid/unspecified/res/drawable-nodpi-v4/mask.xml"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/wave.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-nodpi/wave.png"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/spot_mask.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/exploded-aar/9GAG-master.extras/ShimmerAndroid/unspecified/res/drawable-nodpi-v4/spot_mask.png"
+    }
+]

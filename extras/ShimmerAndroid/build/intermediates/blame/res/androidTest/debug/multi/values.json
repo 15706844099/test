@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/zkw/Downloads/9GAG-master/extras/ShimmerAndroid/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 44,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "/Users/zkw/Downloads/9GAG-master/extras/ShimmerAndroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 44,
+                        "endOffset": 203
+                    }
+                }
+            }
+        ]
+    }
+]

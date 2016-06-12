@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ab_texture_tile.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-xhdpi/ab_texture_tile.png"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-xhdpi/bg.png"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shadow_bottom.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-xhdpi/shadow_bottom.png"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/listitem_feed_pressed.9.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-xhdpi/listitem_feed_pressed.9.png"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shadow_right.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-xhdpi/shadow_right.png"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_refresh.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-xhdpi/ic_refresh.png"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_drawer.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-xhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/listitem_feed_bg.9.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-xhdpi/listitem_feed_bg.9.png"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shadow_left.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-xhdpi/shadow_left.png"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_back_holo_light.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-xhdpi/ic_back_holo_light.png"
+    },
+    {
+        "merged": "/Users/zkw/Downloads/9GAG-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_overflow.png",
+        "source": "/Users/zkw/Downloads/9GAG-master/app/src/main/res/drawable-xhdpi/ic_action_overflow.png"
+    }
+]
