@@ -1,4 +1,3 @@
-9GAG-Android (unofficial)
 =====================
 
 ## Android学习之路
